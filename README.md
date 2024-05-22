@@ -1,4 +1,4 @@
-# MonoFRD:Color intuitive feature guided depth-height fusion and volume rendering for monocular 3D detection
+# MonoFRD:Color intuitive feature guided depth-height fusion and volume rendering for monocular 3D object detection
 ## Introduction
 
 
