@@ -117,6 +117,8 @@ The results are the BEV / 3D detection performance of Car class on the *val* set
 | Training Time |     Easy@R40 | Moderate@R40  |   Hard@R40    |
 |---------------|-------------:|:-------------:|:-------------:|
 | ~10 hours     | 31.54/ 23.61 | 23.67 / 17.50 | 21.12 / 15.28 |
+
+[best_val1.pth](https://drive.google.com/file/d/1EkWQ6U5EzxSCHD9J8X2b0MmeynLX0HTa/view?usp=sharing.)
 ## Citation
 
 
