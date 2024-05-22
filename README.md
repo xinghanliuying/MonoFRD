@@ -10,7 +10,6 @@
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Pretrained Models](#pretrained-models)
-- [Citation](#citation)
 
 
 ## Installation
@@ -124,7 +123,7 @@ The results are the BEV / 3D detection performance of Car class on the *val* set
 
 ## Acknowledgements
 This project benefits from the following codebases. Thanks for their great works! 
-* [monofrd](https://github.com/cskkxjk/monofrd.git) 
+* [mononerd](https://github.com/cskkxjk/monofrd.git) 
 * [CaDDN](https://github.com/TRAILab/CaDDN) 
 * [LIGA-Stereo](https://github.com/xy-guo/LIGA-Stereo)
 * [volSDF](https://github.com/lioryariv/volsdf)
